@@ -1,0 +1,31 @@
+#promo {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/012.jpg) no-repeat;
+  background-size: cover;
+}
+
+#promo.jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.75);
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 65px;
+}
+
+#logo {
+  max-height: 42px;
+  margin-right: 10px;
+  margin-top: -3px;
+  display: inline-block;
+}
+
+#head {
+  text-align: center;
+  padding: 40px;
+  margin-top: 20px;
+}
+
+
+
